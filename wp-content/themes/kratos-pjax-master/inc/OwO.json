@@ -1,0 +1,937 @@
+{
+    "常用": {
+        "type": "image",
+        "container": [
+            {
+                "desc": "':badwater:'",
+                "icon": "/static/images/smilies/badwater.jpg",
+                "text": "一肚子坏水"
+            },
+            {
+                "desc": "':bailan:'",
+                "icon": "/static/images/smilies/bailan.jpg",
+                "text": "摆烂"
+            },
+            {
+                "desc": "':bxianghuole:'",
+                "icon": "/static/images/smilies/bxianghuole.jpg",
+                "text": "不想活了"
+            },
+            {
+                "desc": "':cao:'",
+                "icon": "/static/images/smilies/cao.jpg",
+                "text": "哇草"
+            },
+            {
+                "desc": "':chidao:'",
+                "icon": "/static/images/smilies/chidao.jpg",
+                "text": "几点了"
+            },
+            {
+                "desc": "':chifanle:'",
+                "icon": "/static/images/smilies/chifanle.jpg",
+                "text": "吃饭了"
+            },
+            {
+                "desc": "':chigua:'",
+                "icon": "/static/images/smilies/chigua.jpg",
+                "text": "吃瓜"
+            },
+            {
+                "desc": "':chonglang:'",
+                "icon": "/static/images/smilies/chonglang.jpg",
+                "text": "睡前冲浪"
+            },
+            {
+                "desc": "':ciji:'",
+                "icon": "/static/images/smilies/ciji.jpg",
+                "text": "刺激"
+            },
+            {
+                "desc": "':dashengku:'",
+                "icon": "/static/images/smilies/dashengku.jpg",
+                "text": "大声哭"
+            },
+            {
+                "desc": "':emmm:'",
+                "icon": "/static/images/smilies/emmm.jpg",
+                "text": "呃呃呃"
+            },
+            {
+                "desc": "':fanleni:'",
+                "icon": "/static/images/smilies/fanleni.jpg",
+                "text": "反了你"
+            },
+            {
+                "desc": "':fuxi:'",
+                "icon": "/static/images/smilies/fuxi.jpg",
+                "text": "您说的对"
+            },
+            {
+                "desc": "':guaihaodeli:'",
+                "icon": "/static/images/smilies/guaihaodeli.jpg",
+                "text": "你人还怪好的咧"
+            },
+            {
+                "desc": "':hahaha:'",
+                "icon": "/static/images/smilies/hahaha.jpg",
+                "text": "哈哈哈"
+            },
+            {
+                "desc": "':han:'",
+                "icon": "/static/images/smilies/han.jpg",
+                "text": "汗"
+            },
+            {
+                "desc": "':hoho:'",
+                "icon": "/static/images/smilies/hoho.jpg",
+                "text": "噢噢噢"
+            },
+            {
+                "desc": "':huahua:'",
+                "icon": "/static/images/smilies/huahua.jpg",
+                "text": "送花"
+            },
+            {
+                "desc": "':jiamian:'",
+                "icon": "/static/images/smilies/jiamian.jpg",
+                "text": "假面"
+            },
+            {
+                "desc": "':jing:'",
+                "icon": "/static/images/smilies/jing.jpg",
+                "text": "惊"
+            },
+            {
+                "desc": "':jinzhang:'",
+                "icon": "/static/images/smilies/jinzhang.jpg",
+                "text": "紧张"
+            },
+            {
+                "desc": "':juan:'",
+                "icon": "/static/images/smilies/juan.jpg",
+                "text": "卷"
+            },
+            {
+                "desc": "':juliusha:'",
+                "icon": "/static/images/smilies/juliusha.jpg",
+                "text": "拘留"
+            },
+            {
+                "desc": "':kankan:'",
+                "icon": "/static/images/smilies/kankan.jpg",
+                "text": "给我看看"
+            },
+            {
+                "desc": "':keshui:'",
+                "icon": "/static/images/smilies/keshui.jpg",
+                "text": "瞌睡"
+            },
+            {
+                "desc": "':kugua:'",
+                "icon": "/static/images/smilies/kugua.jpg",
+                "text": "人间小苦瓜"
+            },
+            {
+                "desc": "':meishiba:'",
+                "icon": "/static/images/smilies/meishiba.jpg",
+                "text": "你没事吧"
+            },
+            {
+                "desc": "':menglong:'",
+                "icon": "/static/images/smilies/menglong.jpg",
+                "text": "早"
+            },
+            {
+                "desc": "':messageing:'",
+                "icon": "/static/images/smilies/messageing.jpg",
+                "text": "等你消息"
+            },
+            {
+                "desc": "':mingku:'",
+                "icon": "/static/images/smilies/mingku.jpg",
+                "text": "我不辛苦命苦"
+            },
+            {
+                "desc": "':paolu:'",
+                "icon": "/static/images/smilies/paolu.jpg",
+                "text": "跑路"
+            },
+            {
+                "desc": "':pig:'",
+                "icon": "/static/images/smilies/pig.jpg",
+                "text": "猪"
+            },
+            {
+                "desc": "':qianshui:'",
+                "icon": "/static/images/smilies/qianshui.jpg",
+                "text": "冒泡"
+            },
+            {
+                "desc": "':shaque:'",
+                "icon": "/static/images/smilies/shaque.jpg",
+                "text": "鲨缺"
+            },
+            {
+                "desc": "':shaxin:'",
+                "icon": "/static/images/smilies/shaxin.jpg",
+                "text": "起了鲨心"
+            },
+            {
+                "desc": "':shengqi:'",
+                "icon": "/static/images/smilies/shengqi.jpg",
+                "text": "生气"
+            },
+            {
+                "desc": "':shufu:'",
+                "icon": "/static/images/smilies/shufu.jpg",
+                "text": "舒服"
+            },
+            {
+                "desc": "':shuijiaole:'",
+                "icon": "/static/images/smilies/shuijiaole.jpg",
+                "text": "睡觉了"
+            },
+            {
+                "desc": "':sile:'",
+                "icon": "/static/images/smilies/sile.jpg",
+                "text": "死了"
+            },
+            {
+                "desc": "':tanqi:'",
+                "icon": "/static/images/smilies/tanqi.jpg",
+                "text": "叹气"
+            },
+            {
+                "desc": "':tule:'",
+                "icon": "/static/images/smilies/tule.jpg",
+                "text": "吐了"
+            },
+            {
+                "desc": "':wa:'",
+                "icon": "/static/images/smilies/wa.jpg",
+                "text": "哇"
+            },
+            {
+                "desc": "':wuyi:'",
+                "icon": "/static/images/smilies/wuyi.jpg",
+                "text": "无语"
+            },
+            {
+                "desc": "':wuyu:'",
+                "icon": "/static/images/smilies/wuyu.jpg",
+                "text": "无语汗"
+            },
+            {
+                "desc": "':xiexienij:'",
+                "icon": "/static/images/smilies/xiexienij.jpg",
+                "text": "听我说谢谢你"
+            },
+            {
+                "desc": "':fanzao:'",
+                "icon": "/static/images/smilies/fanzao.jpg",
+                "text": "烦躁"
+            },
+            {
+                "desc": "':yiwen:'",
+                "icon": "/static/images/smilies/yiwen.jpg",
+                "text": "疑问"
+            },
+            {
+                "desc": "':zao:'",
+                "icon": "/static/images/smilies/zao.jpg",
+                "text": "早啊"
+            },
+            {
+                "desc": "':zeze:'",
+                "icon": "/static/images/smilies/zeze.jpg",
+                "text": "啧啧啧"
+            },
+            {
+                "desc": "':zhuhe:'",
+                "icon": "/static/images/smilies/zhuhe.jpg",
+                "text": "庆祝"
+            },
+            {
+                "desc": "':zuibang:'",
+                "icon": "/static/images/smilies/zuibang.jpg",
+                "text": "冠军"
+            }
+        ]
+    },
+    "3D": {
+        "type": "image",
+        "container": [
+            {
+                "desc": "':bukuishiwo:'",
+                "icon": "/static/images/smilies/bukuishiwo.jpg",
+                "text": "不愧是我"
+            },
+            {
+                "desc": "':bushengqi:'",
+                "icon": "/static/images/smilies/bushengqi.jpg",
+                "text": "不生气"
+            },
+            {
+                "desc": "':dalian:'",
+                "icon": "/static/images/smilies/dalian.jpg",
+                "text": "打脸"
+            },
+            {
+                "desc": "':dingguagua:'",
+                "icon": "/static/images/smilies/dingguagua.jpg",
+                "text": "顶呱呱"
+            },
+            {
+                "desc": "':ku:'",
+                "icon": "/static/images/smilies/ku.jpg",
+                "text": "酷"
+            },
+            {
+                "desc": "':liulei:'",
+                "icon": "/static/images/smilies/liulei.jpg",
+                "text": "流泪"
+            },
+            {
+                "desc": "':luelue:'",
+                "icon": "/static/images/smilies/luelue.jpg",
+                "text": "略略略"
+            },
+            {
+                "desc": "':moyu:'",
+                "icon": "/static/images/smilies/moyu.jpg",
+                "text": "摸鱼"
+            },
+            {
+                "desc": "':qidai:'",
+                "icon": "/static/images/smilies/qidai.jpg",
+                "text": "期待"
+            },
+            {
+                "desc": "':sese:'",
+                "icon": "/static/images/smilies/sese.jpg",
+                "text": "喜欢"
+            },
+            {
+                "desc": "':shagua:'",
+                "icon": "/static/images/smilies/shagua.jpg",
+                "text": "鲨瓜"
+            },
+            {
+                "desc": "':shaquan:'",
+                "icon": "/static/images/smilies/shaquan.jpg",
+                "text": "鲨拳"
+            },
+            {
+                "desc": "':shuang:'",
+                "icon": "/static/images/smilies/shuang.jpg",
+                "text": "爽"
+            },
+            {
+                "desc": "':shuile:'",
+                "icon": "/static/images/smilies/shuile.jpg",
+                "text": "睡了"
+            },
+            {
+                "desc": "':xiangkaile:'",
+                "icon": "/static/images/smilies/xiangkaile.jpg",
+                "text": "想开了"
+            },
+            {
+                "desc": "':xianhua:'",
+                "icon": "/static/images/smilies/xianhua.jpg",
+                "text": "献花"
+            },
+            {
+                "desc": "':xuegao:'",
+                "icon": "/static/images/smilies/xuegao.jpg",
+                "text": "吃雪糕"
+            },
+            {
+                "desc": "':ye:'",
+                "icon": "/static/images/smilies/ye.jpg",
+                "text": "耶"
+            },
+            {
+                "desc": "':zan:'",
+                "icon": "/static/images/smilies/zan.jpg",
+                "text": "赞"
+            }
+
+        ]
+    },
+    "捧场": {
+        "type": "image",
+        "container": [
+            {
+                "desc": "':ansha:'",
+                "icon": "/static/images/smilies/ansha.jpg",
+                "text": "暗鲨"
+            },
+            {
+                "desc": "':badlunck:'",
+                "icon": "/static/images/smilies/badlunck.jpg",
+                "text": "坏运气被我吃了"
+            },
+            {
+                "desc": "':bieshengqi:'",
+                "icon": "/static/images/smilies/bieshengqi.jpg",
+                "text": "别生气了"
+            },
+            {
+                "desc": "':dingguagua:'",
+                "icon": "/static/images/smilies/dingguagua.jpg",
+                "text": "顶呱呱"
+            },
+            {
+                "desc": "':bujige:'",
+                "icon": "/static/images/smilies/bujige.jpg",
+                "text": "不及格"
+            },
+            {
+                "desc": "':canhui:'",
+                "icon": "/static/images/smilies/canhui.jpg",
+                "text": "忏悔时间"
+            },
+            {
+                "desc": "':changge:'",
+                "icon": "/static/images/smilies/changge.jpg",
+                "text": "啊~哦~"
+            },
+            {
+                "desc": "':chitu:'",
+                "icon": "/static/images/smilies/chitu.jpg",
+                "text": "吃土"
+            },
+            {
+                "desc": "':crying:'",
+                "icon": "/static/images/smilies/crying.jpg",
+                "text": "哭"
+            },
+            {
+                "desc": "':cuoguo:'",
+                "icon": "/static/images/smilies/cuoguo.jpg",
+                "text": "错过一个亿"
+            },
+            {
+                "desc": "':dataosha:'",
+                "icon": "/static/images/smilies/dataosha.jpg",
+                "text": "大逃鲨"
+            },
+            {
+                "desc": "':eating:'",
+                "icon": "/static/images/smilies/eating.jpg",
+                "text": "吃"
+            },
+            {
+                "desc": "':fangjia:'",
+                "icon": "/static/images/smilies/fangjia.jpg",
+                "text": "放假啦"
+            },
+            {
+                "desc": "':guayu:'",
+                "icon": "/static/images/smilies/guayu.jpg",
+                "text": "没有世俗的欲望"
+            },
+            {
+                "desc": "':happyguy:'",
+                "icon": "/static/images/smilies/happyguy.jpg",
+                "text": "开心鬼"
+            },
+            {
+                "desc": "':hehao:'",
+                "icon": "/static/images/smilies/hehao.jpg",
+                "text": "和好券"
+            },
+            {
+                "desc": "':hehaoba:'",
+                "icon": "/static/images/smilies/hehaoba.jpg",
+                "text": "我们和好吧"
+            },
+            {
+                "desc": "':huanxiang:'",
+                "icon": "/static/images/smilies/huanxiang.jpg",
+                "text": "幻想时间"
+            },
+            {
+                "desc": "':huole:'",
+                "icon": "/static/images/smilies/huole.jpg",
+                "text": "又活了一天"
+            },
+            {
+                "desc": "':imagining:'",
+                "icon": "/static/images/smilies/imagining.jpg",
+                "text": "幻想"
+            },
+            {
+                "desc": "':jiaji:'",
+                "icon": "/static/images/smilies/jiaji.jpg",
+                "text": "加急"
+            },            {
+                "desc": "':juliu:'",
+                "icon": "/static/images/smilies/juliu.jpg",
+                "text": "色色犯"
+            },            {
+                "desc": "':kaiqiang:'",
+                "icon": "/static/images/smilies/kaiqiang.jpg",
+                "text": "准备开抢"
+            },            {
+                "desc": "':kuaipao:'",
+                "icon": "/static/images/smilies/kuaipao.jpg",
+                "text": "快跑"
+            },            {
+                "desc": "':kuangnu:'",
+                "icon": "/static/images/smilies/kuangnu.jpg",
+                "text": "发怒"
+            },            {
+                "desc": "':listening:'",
+                "icon": "/static/images/smilies/listening.jpg",
+                "text": "听"
+            },            {
+                "desc": "':nidaye:'",
+                "icon": "/static/images/smilies/nidaye.jpg",
+                "text": "我是你大爷"
+            },            {
+                "desc": "':nizi:'",
+                "icon": "/static/images/smilies/nizi.jpg",
+                "text": "逆子"
+            },            {
+                "desc": "':noowork:'",
+                "icon": "/static/images/smilies/noowork.jpg",
+                "text": "不想上班"
+            },            {
+                "desc": "':panni:'",
+                "icon": "/static/images/smilies/panni.jpg",
+                "text": "叛逆"
+            },            {
+                "desc": "':playing:'",
+                "icon": "/static/images/smilies/playing.jpg",
+                "text": "玩"
+            },            {
+                "desc": "':power:'",
+                "icon": "/static/images/smilies/power.jpg",
+                "text": "强"
+            },            {
+                "desc": "':qionggui:'",
+                "icon": "/static/images/smilies/qionggui.jpg",
+                "text": "穷"
+            },            {
+                "desc": "':redaofakuang:'",
+                "icon": "/static/images/smilies/redaofakuang.jpg",
+                "text": "热到发狂"
+            },            {
+                "desc": "':rehuale:'",
+                "icon": "/static/images/smilies/rehuale.jpg",
+                "text": "热化了"
+            },            {
+                "desc": "':ren:'",
+                "icon": "/static/images/smilies/ren.jpg",
+                "text": "忍者"
+            },            {
+                "desc": "':shaa:'",
+                "icon": "/static/images/smilies/shaa.jpg",
+                "text": "这特么是啥？"
+            },     
+            {
+                "desc": "':youshaa:'",
+                "icon": "/static/images/smilies/youshaa.jpg",
+                "text": "这特么又是啥？"
+            },        {
+                "desc": "':shadiao:'",
+                "icon": "/static/images/smilies/shadiao.jpg",
+                "text": "沙雕"
+            },            {
+                "desc": "':huole:'",
+                "icon": "/static/images/smilies/huole.jpg",
+                "text": "又活了一天"
+            },            {
+                "desc": "':shafengle:'",
+                "icon": "/static/images/smilies/shafengle.jpg",
+                "text": "鲨疯了"
+            },            {
+                "desc": "':shagou:'",
+                "icon": "/static/images/smilies/shagou.jpg",
+                "text": "鲨狗"
+            },            {
+                "desc": "':shamate:'",
+                "icon": "/static/images/smilies/shamate.jpg",
+                "text": "鲨马特"
+            },            {
+                "desc": "':shashou:'",
+                "icon": "/static/images/smilies/shashou.jpg",
+                "text": "鲨手"
+            },            {
+                "desc": "':shenghuo:'",
+                "icon": "/static/images/smilies/shenghuo.jpg",
+                "text": "生活"
+            },            {
+                "desc": "':shengqile:'",
+                "icon": "/static/images/smilies/shengqile.jpg",
+                "text": "我是真的生气了"
+            },            {
+                "desc": "':shiyi:'",
+                "icon": "/static/images/smilies/shiyi.jpg",
+                "text": "失忆"
+            },            {
+                "desc": "':shouchang:'",
+                "icon": "/static/images/smilies/shouchang.jpg",
+                "text": "收藏"
+            },            {
+                "desc": "':shuai:'",
+                "icon": "/static/images/smilies/shuai.jpg",
+                "text": "摔"
+            },            {
+                "desc": "':sleeping:'",
+                "icon": "/static/images/smilies/sleeping.jpg",
+                "text": "睡"
+            },            {
+                "desc": "':taijie:'",
+                "icon": "/static/images/smilies/taijie.jpg",
+                "text": "给你台阶下"
+            },            {
+                "desc": "':tian:'",
+                "icon": "/static/images/smilies/tian.jpg",
+                "text": "甜哒"
+            },            {
+                "desc": "':tiaopi:'",
+                "icon": "/static/images/smilies/tiaopi.jpg",
+                "text": "调皮鬼"
+            },            {
+                "desc": "':toudale:'",
+                "icon": "/static/images/smilies/toudale.jpg",
+                "text": "学到头都大了"
+            },            {
+                "desc": "':tudou:'",
+                "icon": "/static/images/smilies/tudou.jpg",
+                "text": "你是真的逗"
+            },            {
+                "desc": "':tuili:'",
+                "icon": "/static/images/smilies/tuili.jpg",
+                "text": "我好像学过"
+            },            {
+                "desc": "':v50:'",
+                "icon": "/static/images/smilies/v50.jpg",
+                "text": "V我50"
+            },
+            {
+                "desc": "':xiaolaodi:'",
+                "icon": "/static/images/smilies/xiaolaodi.jpg",
+                "text": "怎么回事小老弟"
+            },
+            {
+                "desc": "':xiaoxs:'",
+                "icon": "/static/images/smilies/xiaoxs.jpg",
+                "text": "小学生"
+            },            {
+                "desc": "':xinjingziranliang:'",
+                "icon": "/static/images/smilies/xinjingziranliang.jpg",
+                "text": "心静自然凉"
+            },            {
+                "desc": "':yangni:'",
+                "icon": "/static/images/smilies/yangni.jpg",
+                "text": "我养你啊"
+            },            {
+                "desc": "':yourfather:'",
+                "icon": "/static/images/smilies/yourfather.jpg",
+                "text": "我是你蝶"
+            },            {
+                "desc": "':zaixuele:'",
+                "icon": "/static/images/smilies/zaixuele.jpg",
+                "text": "已经在学了"
+            },            {
+                "desc": "':zhuangbi:'",
+                "icon": "/static/images/smilies/zhuangbi.jpg",
+                "text": "不可以装逼哦"
+            },            {
+                "desc": "':zisha:'",
+                "icon": "/static/images/smilies/zisha.jpg",
+                "text": "我选择自鲨"
+            }
+        ]
+    },
+    "工作": {
+        "type": "image",
+        "container": [
+            {
+                "desc": "':hehework:'",
+                "icon": "/static/images/smilies/hehework.jpg",
+                "text": "我爱工作"
+            },
+            {
+                "desc": "':keliansha:'",
+                "icon": "/static/images/smilies/keliansha.jpg",
+                "text": "小小单位爬呀爬"
+            },
+            {
+                "desc": "':leidianle:'",
+                "icon": "/static/images/smilies/leidianle.jpg",
+                "text": "小职员有点累了"
+            },
+            {
+                "desc": "':lovework:'",
+                "icon": "/static/images/smilies/lovework.jpg",
+                "text": "我心里只有工作"
+            },
+            {
+                "desc": "':xiabanle:'",
+                "icon": "/static/images/smilies/xiabanle.jpg",
+                "text": "下班了"
+            },
+            {
+                "desc": "':yiqianba:'",
+                "icon": "/static/images/smilies/yiqianba.jpg",
+                "text": "月入一千八"
+            }
+        ]
+    },
+    "套装": {
+        "type": "image",
+        "container": [
+            {
+                "desc": "':chou:'",
+                "icon": "/static/images/smilies/chou.jpg",
+                "text": "丑"
+            },
+            {
+                "desc": "':chouku:'",
+                "icon": "/static/images/smilies/chouku.jpg",
+                "text": "丑哭"
+            },
+            {
+                "desc": "':danshen:'",
+                "icon": "/static/images/smilies/danshen.jpg",
+                "text": "单身鲨保护协会"
+            },
+            {
+                "desc": "':hunsha:'",
+                "icon": "/static/images/smilies/hunsha.jpg",
+                "text": "昏鲨照"
+            },
+            {
+                "desc": "':shabi:'",
+                "icon": "/static/images/smilies/shabi.jpg",
+                "text": "大鲨币"
+            },
+            {
+                "desc": "':mengsha:'",
+                "icon": "/static/images/smilies/mengsha.jpg",
+                "text": "猛鲨"
+            },
+            {
+                "desc": "':mengsha1:'",
+                "icon": "/static/images/smilies/mengsha1.jpg",
+                "text": "猛鲨1"
+            },
+            {
+                "desc": "':mengsha2:'",
+                "icon": "/static/images/smilies/mengsha2.jpg",
+                "text": "猛鲨春丽"
+            },
+            {
+                "desc": "':haosao:'",
+                "icon": "/static/images/smilies/haosao.jpg",
+                "text": "你好骚啊"
+            },
+            {
+                "desc": "':pinru:'",
+                "icon": "/static/images/smilies/pinru.jpg",
+                "text": "品如衣服"
+            },
+            {
+                "desc": "':shabi1:'",
+                "icon": "/static/images/smilies/shabi1.jpg",
+                "text": "鲨币1"
+            },
+            {
+                "desc": "':shabi10:'",
+                "icon": "/static/images/smilies/shabi10.jpg",
+                "text": "鲨币10"
+            },
+            {
+                "desc": "':shabi50:'",
+                "icon": "/static/images/smilies/shabi50.jpg",
+                "text": "鲨币50"
+            },
+            {
+                "desc": "':shabi100:'",
+                "icon": "/static/images/smilies/shabi100.jpg",
+                "text": "鲨币100"
+            },
+            {
+                "desc": "':mon:'",
+                "icon": "/static/images/smilies/mon.jpg",
+                "text": "周一"
+            },
+            {
+                "desc": "':Tue:'",
+                "icon": "/static/images/smilies/Tue.jpg",
+                "text": "周二"
+            },
+            {
+                "desc": "':Wed:'",
+                "icon": "/static/images/smilies/Wed.jpg",
+                "text": "周三"
+            },
+            {
+                "desc": "':Thu:'",
+                "icon": "/static/images/smilies/Thu.jpg",
+                "text": "周四"
+            },
+            {
+                "desc": "':Fri:'",
+                "icon": "/static/images/smilies/Fri.jpg",
+                "text": "周五"
+            },
+            {
+                "desc": "':sat:'",
+                "icon": "/static/images/smilies/sat.jpg",
+                "text": "周六"
+            },
+            {
+                "desc": "':Sun:'",
+                "icon": "/static/images/smilies/Sun.jpg",
+                "text": "周日"
+            }
+        ]
+    },
+    "颜文字": {
+        "type": "emoticon",
+        "container": [
+            {
+                "desc": "'OωO'",
+                "icon": "OωO",
+                "text": "Author: DIYgod"
+            },
+            {
+                "desc": "'|´・ω・)ノ'",
+                "icon": "|´・ω・)ノ",
+                "text": "Hi"
+            },
+            {
+                "desc": "'ヾ(≧∇≦*)ゝ'",
+                "icon": "ヾ(≧∇≦*)ゝ",
+                "text": "开心"
+            },
+            {
+                "desc": "'(☆ω☆)'",
+                "icon": "(☆ω☆)",
+                "text": "星星眼"
+            },
+            {
+                "desc": "'（╯‵□′）╯︵┴─┴'",
+                "icon": "（╯‵□′）╯︵┴─┴",
+                "text": "掀桌"
+            },
+            {
+                "desc": "'￣﹃￣'",
+                "icon": "￣﹃￣",
+                "text": "流口水"
+            },
+            {
+                "desc": "'(/ω＼)'",
+                "icon": "(/ω＼)",
+                "text": "捂脸"
+            },
+            {
+                "desc": "'∠( ᐛ 」∠)＿'",
+                "icon": "∠( ᐛ 」∠)＿",
+                "text": "给跪"
+            },
+            {
+                "desc": "'(๑•̀ㅁ•́ฅ)'",
+                "icon": "(๑•̀ㅁ•́ฅ)",
+                "text": "Hi"
+            },
+            {
+                "desc": "'→_→'",
+                "icon": "→_→",
+                "text": "斜眼"
+            },
+            {
+                "desc": "'୧(๑•̀⌄•́๑)૭'",
+                "icon": "୧(๑•̀⌄•́๑)૭",
+                "text": "加油"
+            },
+            {
+                "desc": "'٩(ˊᗜˋ*)و'",
+                "icon": "٩(ˊᗜˋ*)و",
+                "text": "有木有WiFi"
+            },
+            {
+                "desc": "'(ノ°ο°)ノ'",
+                "icon": "(ノ°ο°)ノ",
+                "text": "前方高能预警"
+            },
+            {
+                "desc": "'(´இ皿இ｀)'",
+                "icon": "(´இ皿இ｀)",
+                "text": "我从未见过如此厚颜无耻之人"
+            },
+            {
+                "desc": "'⌇●﹏●⌇'",
+                "icon": "⌇●﹏●⌇",
+                "text": "吓死宝宝惹"
+            },
+            {
+                "desc": "'(ฅ´ω`ฅ)'",
+                "icon": "(ฅ´ω`ฅ)",
+                "text": "已阅留爪"
+            },
+            {
+                "desc": "'(╯°A°)╯︵○○○'",
+                "icon": "(╯°A°)╯︵○○○",
+                "text": "去吧大师球"
+            },
+            {
+                "desc": "'φ(￣∇￣o)'",
+                "icon": "φ(￣∇￣o)",
+                "text": "太萌惹"
+            },
+            {
+                "desc": "'ヾ(´･ ･｀｡)ノ'",
+                "icon": "ヾ(´･ ･｀｡)ノ",
+                "text": "咦咦咦"
+            },
+            {
+                "desc": "'( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃'",
+                "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+                "text": "气呼呼"
+            },
+            {
+                "desc": "'(ó﹏ò｡)'",
+                "icon": "(ó﹏ò｡)",
+                "text": "我受到了惊吓"
+            },
+            {
+                "desc": "'Σ(っ °Д °;)っ'",
+                "icon": "Σ(っ °Д °;)っ",
+                "text": "什么鬼"
+            },
+            {
+                "desc": "'( ,,´･ω･)ﾉ(´っω･｀｡)'",
+                "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+                "text": "安慰"
+            },
+            {
+                "desc": "'╮(╯▽╰)╭'",
+                "icon": "╮(╯▽╰)╭",
+                "text": "无奈"
+            },
+            {
+                "desc": "'o(*////▽////*)q'",
+                "icon": "o(*////▽////*)q",
+                "text": "脸红"
+            },
+            {
+                "desc": "'＞﹏＜'",
+                "icon": "＞﹏＜",
+                "text": "难受"
+            },
+            {
+                "desc": "'( ๑´•ω•) ﾉ(ㆆᴗㆆ)'",
+                "icon": "( ๑´•ω•) ﾉ(ㆆᴗㆆ)",
+                "text": "摸摸头"
+            }
+        ]
+    }
+}

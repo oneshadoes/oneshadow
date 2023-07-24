@@ -1,0 +1,72 @@
+# Translation of Plugins - WPAvatar - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - WPAvatar - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-24 05:19:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - WPAvatar - Stable (latest release)\n"
+
+#: includes/cravatar.php:104
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: includes/cravatar.php:99
+msgid "No"
+msgstr "否"
+
+#: includes/cravatar.php:98
+msgid "Yes"
+msgstr "是"
+
+#: includes/cravatar.php:95
+msgid "Enable Cravatar"
+msgstr "启用Cravatar"
+
+#: includes/cravatar.php:87
+msgid "Cravatar is the perfect alternative to Gravatar in China, you can update your avatar at"
+msgstr "Cravatar（初认头像）是中国 Gravatar 的完美替代方案，您可以在官网更新您的头像"
+
+#: includes/cravatar.php:86
+msgid "WordPress Avatar Settings"
+msgstr "文派头像设置"
+
+#: includes/cravatar.php:73
+msgid "Avatar"
+msgstr "头像"
+
+#: includes/cravatar.php:72
+msgid "Avatar Settings"
+msgstr "头像设置"
+
+#: includes/cravatar.php:59
+msgid "You can update your profile picture at Cravatar.cn"
+msgstr "您可以在 Cravatar.cn 更新您的个人资料图片"
+
+#: includes/cravatar.php:44
+msgid "Cravatar Logo"
+msgstr "头像"
+
+#. Author URI of the plugin
+msgid "https://wpfanyi.com/"
+msgstr "https://wpfanyi.com/"
+
+#. Author of the plugin
+msgid "WPfanyi"
+msgstr "文派翻译"
+
+#. Description of the plugin
+msgid "Replace Gravatar with Cravatar, a perfect replacement of Gravatar in China."
+msgstr "替换 Gravatar 头像为 Cravatar 头像，这是 Gravatar 在中国的完美替代方案。"
+
+#. Plugin URI of the plugin
+msgid "https://wpavatar.com/download"
+msgstr "https://wpavatar.com/download"
+
+#. Plugin Name of the plugin
+msgid "WPAvatar"
+msgstr "文派头像"
